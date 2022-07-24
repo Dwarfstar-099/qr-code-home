@@ -16,7 +16,8 @@ body{
     display: grid;
     justify-content: center;
     margin: 8% auto;
-    border: 2px solid hsl(219, 20%, 78%) ;
+    border: 2px solid hsl(219, 20%, 78%);
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
     border-radius: 10px;
     background: white;
     width: 15rem;
