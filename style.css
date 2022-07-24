@@ -22,16 +22,15 @@ body{
     background: white;
     width: 15rem;
     max-height: 25rem;
-    padding: 0.7em 0.5em 1.5rem 0.5rem;
+    padding: 0.8em 0.7em 2rem 0.7rem;
     
 }
 
 [alt*="bg"]{
-    width: 12rem;
+    width: 13.4rem;
     border-radius: 5px;
     margin-left: 0.3rem;
     margin-right: 0.3rem;
-    resize: both;
 }
 .text-main{
     text-align: center;
