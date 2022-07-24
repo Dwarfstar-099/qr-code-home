@@ -16,7 +16,7 @@ body{
     display: grid;
     justify-content: center;
     margin: 8% auto;
-    border: 2px solid rgb(220, 247, 255) ;
+    border: 2px solid hsl(219, 20%, 78%) ;
     border-radius: 10px;
     background: white;
     width: 15rem;
@@ -49,4 +49,10 @@ body{
       font-weight: 400;
       font-family: 'Outfit', sans-serif;
       line-height: 0.2mm;
+}
+
+@media(max-width: 444px){
+        .container{
+            resize: both;
+        }
 }
